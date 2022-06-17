@@ -1,8 +1,9 @@
 <h1 align="center">
 👋 Hi there, I’m Kavidi.
 </h1>
-👀 I graduated in Bachelor of IT and I'm interested in UX/UI and software development, front-end development and digital marketing. I’m currently learning Spring Boot Java EE projects. I’m looking to collaborate on t
-- 📫 How to reach me ...
+👀 I graduated in Bachelor of IT and I'm interested in UX/UI and software development, front-end development and digital marketing. I’m currently learning Spring Boot Java EE projects. 
+<!-- I’m looking to collaborate on t
+- 📫 How to reach me ... -->
 
 <!---
 KavidiDeSilva/KavidiDeSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
