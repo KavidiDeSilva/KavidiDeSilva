@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KavidiDeSilva&theme=dark"/>
 </div>
   
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)  
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)  
 
 
 ---
