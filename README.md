@@ -13,7 +13,7 @@
   
 - ⚡ Portfolio [link](https://kavididesilv.webflow.io/).
 <br>
-
+<br>
 <!-- I’m looking to collaborate on t
 - 📫 How to reach me ... -->
 
@@ -36,10 +36,10 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;-->
 
-<br>
+<br><br>
   
 ### :student: Github stats :
-<div align-content: space-between;>
+<div display: flex; align-items: stretch;>
   <a href="https://github.com/KavidiDeSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KavidiDeSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavidiDeSilva&layout=compact&langs_count=7&theme=dark"/>
