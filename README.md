@@ -1,7 +1,6 @@
 <h1 align="center">
 👋 Hi there, I’m Kavidi.
 </h1>
-![GitHub followers](https://img.shields.io/github/followers/KavidiDeSilva?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/KavidiDeSilva?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=KavidiDeSilva.repoName) <img src="https://komarev.com/ghpvc/?username=KavidiDeSilva" alt="KavidiDeSilva" />
 
 ![GitHub followers](https://img.shields.io/github/followers/KavidiDeSilva?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/KavidiDeSilva?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=KavidiDeSilva.repoName) <img src="https://komarev.com/ghpvc/?username=KavidiDeSilva7" alt="KavidiDeSilva" />
 <br><br>
