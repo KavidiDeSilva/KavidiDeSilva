@@ -7,6 +7,15 @@
 - I'm interested in UX/UI and software development, front-end development and digital marketing.
 - :student: I’m currently learning `React JS` and `Node JS`.
 - Portfolio [link](https://kavididesilv.webflow.io/)
+- - 🔭 I’m currently working on  Soy Estudiante
+  
+- 🌱 I’m currently learning Git, Java y GitHub
+  
+- 👯 I’m looking to collaborate on Proyectos
+  
+- 💬 Ask me about Sql, Java, C#, JavaScript
+  
+- ⚡ Fun fact: Me gustan los girasoles.
 <br>
 
 <!-- I’m looking to collaborate on t
