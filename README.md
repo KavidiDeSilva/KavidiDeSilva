@@ -6,11 +6,9 @@
 👀 
   
 - 🌱 A passionate Self-taught UX/UI Engineer
-  
 - 👯 I'm interested in UX/UI and software development, front-end development and digital marketing.
-  
 - 💬 I’m currently learning `React JS` and `Node JS`.
-  
+- 🏡'Lives in **Sri Lanka**
 - ⚡ Portfolio [link](https://kavididesilv.webflow.io/).
 <br>
 
@@ -20,11 +18,6 @@
 
 <!-- I’m looking to collaborate on t
 - 📫 How to reach me ... -->
-
-<!---
-KavidiDeSilva/KavidiDeSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -53,7 +46,7 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KavidiDeSilva&theme=dark"/>
 </div>
   
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)  
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)   -->
 
 
 ---
