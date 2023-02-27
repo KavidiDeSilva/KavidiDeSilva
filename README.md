@@ -3,19 +3,16 @@
 </h1>
 <br>
 👀 
-- A passionate Self-taught UX/UI Engineer
-- I'm interested in UX/UI and software development, front-end development and digital marketing.
-- :student: I’m currently learning `React JS` and `Node JS`.
-- Portfolio [link](https://kavididesilv.webflow.io/)
-- - 🔭 I’m currently working on  Soy Estudiante
+
+🔭 I’m currently working on MCQMED
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 A passionate Self-taught UX/UI Engineer
   
-- 👯 I’m looking to collaborate on Proyectos
+- 👯 I'm interested in UX/UI and software development, front-end development and digital marketing.
   
-- 💬 Ask me about Sql, Java, C#, JavaScript
+- 💬 :student: I’m currently learning `React JS` and `Node JS`.
   
-- ⚡ Fun fact: Me gustan los girasoles.
+- ⚡ Portfolio [link](https://kavididesilv.webflow.io/).
 <br>
 
 <!-- I’m looking to collaborate on t
