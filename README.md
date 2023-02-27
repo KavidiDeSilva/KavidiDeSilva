@@ -1,11 +1,13 @@
 <h1 align="center">
 👋 Hi there, I’m Kavidi.
 </h1>
+<br>
 👀 
 - A passionate Self-taught UX/UI Engineer
 - I'm interested in UX/UI and software development, front-end development and digital marketing.
 - :student: I’m currently learning `React JS` and `Node JS`.
 - Portfolio [link](https://kavididesilv.webflow.io/)
+<br>
 
 <!-- I’m looking to collaborate on t
 - 📫 How to reach me ... -->
