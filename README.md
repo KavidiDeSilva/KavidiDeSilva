@@ -1,7 +1,12 @@
 <h1 align="center">
 👋 Hi there, I’m Kavidi.
 </h1>
-👀 I graduated in Bachelor of IT and I'm interested in UX/UI and software development, front-end development and digital marketing. I’m currently learning Spring Boot Java EE projects. 
+👀 
+- A passionate Self-taught UX/UI Engineer
+- I'm interested in UX/UI and software development, front-end development and digital marketing.
+- :student: I’m currently learning `React JS` and `Node JS`.
+- Portfolio [link](https://kavididesilv.webflow.io/)
+
 <!-- I’m looking to collaborate on t
 - 📫 How to reach me ... -->
 
