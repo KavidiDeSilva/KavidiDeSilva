@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 <br><br>
   
 ### :student: Github stats :
-<div style="display: flex; align-items: stretch;">
+<div style="display: flex; flex-wrap: wrap; align-content: space-between;">
   <a href="https://github.com/KavidiDeSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KavidiDeSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavidiDeSilva&layout=compact&langs_count=7&theme=dark"/>
