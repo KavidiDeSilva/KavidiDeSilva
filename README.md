@@ -3,13 +3,13 @@
 </h1>
 
 
-👀 
-  
+### 👩‍💻 About Me:  
 - 🌱 A passionate Self-taught UX/UI Engineer
 - 👯 I'm interested in UX/UI and software development, front-end development and digital marketing.
 - 💬 I’m currently learning `React JS` and `Node JS`.
 - 🏡'Lives in **Sri Lanka**
-- ⚡ Portfolio [link](https://kavididesilv.webflow.io/).
+- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 🖥️ Portfolio [link](https://kavididesilv.webflow.io/).
 <br>
 
   
@@ -35,7 +35,7 @@
 
 <br><br>
   
-### :student: Github stats :
+### :student: My Github stats :
 <div align="center" >
   <a href="https://github.com/KavidiDeSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KavidiDeSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
