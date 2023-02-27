@@ -8,7 +8,7 @@
   
 - 👯 I'm interested in UX/UI and software development, front-end development and digital marketing.
   
-- 💬 :student: I’m currently learning `React JS` and `Node JS`.
+- 💬 I’m currently learning `React JS` and `Node JS`.
   
 - ⚡ Portfolio [link](https://kavididesilv.webflow.io/).
 <br>
@@ -36,14 +36,15 @@ You can click the Preview link to take a look at your changes.
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;-->
 
 <br>
-<div align="center">
-  <a href="https://github.com/israelhp">
+  
+### :student: Github stats :
+<div align-content: space-between;>
+  <a href="https://github.com/KavidiDeSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KavidiDeSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavidiDeSilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   
-[![Kavidi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KavidiDeSilva&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=KavidiDeSilva&show_icons=true&theme=tokyonight) | ![Kavidi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KavidiDeSilva&theme=tokyonight) |
 | --- | --- |
