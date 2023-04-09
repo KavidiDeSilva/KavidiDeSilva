@@ -21,50 +21,59 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
-<!-- 
+
 - 🌐 &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+- 🌐 &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=springboot)
+  ![Hibernate](https://img.shields.io/badge/-Hibernate-333333?style=flat&logo=hibernate)
+  ![Gradle](https://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle)
+  ![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apache-maven)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333333?style=flat&logo=phpmyadmin)
+  ![Microsoft Access](https://img.shields.io/badge/-Microsoft_Access-333333?style=flat&logo=microsoft-access)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+- 🛢 &nbsp;
+  ![Webflow](https://img.shields.io/badge/-Webflow-333333?style=flat&logo=webflow)
+  ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
+  ![Editor X](https://img.shields.io/badge/-Editor_X-333333?style=flat&logo=editor-x)
+- 🛢 &nbsp;
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![GIMP](https://img.shields.io/badge/-GIMP-333333?style=flat&logo=gimp)
+  ![Miro](https://img.shields.io/badge/-Miro-333333?style=flat&logo=miro)
+  ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-333333?style=flat&logo=adobe-xd)
+- 🛢 &nbsp;
+  ![Visual Paradigm](https://img.shields.io/badge/-Visual_Paradigm-333333?style=flat&logo=visual-paradigm)
+  ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-333333?style=flat&logo=microsoft-office)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-333333?style=flat&logo=intellij-idea)
+  ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+  ![Android Studio](https://img.shields.io/badge/-Android_Studio-333333?style=flat&logo=android-studio)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-   -->
-  
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;<!-- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  
-  
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;-->
+  ![Project Management](https://img.shields.io/badge/-Project_Management-333333?style=flat&logo=trello)
+  ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=ag-grid)
+  ![Agile](https://img.shields.io/badge/-Agile-333333?style=flat&logo=ag-grid)
+  ![User research](https://img.shields.io/badge/-User_research-333333?style=flat&logo=google-analytics)
+  ![Wire framing](https://img.shields.io/badge/-Wire_framing-333333?style=flat&logo=figma)
+  ![Prototyping](https://img.shields.io/badge/-Prototyping-333333?style=flat&logo=adobe-xd)
+  ![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat&logo=jenkins)
+  ![MVC](https://img.shields.io/badge/-MVC-333333?style=flat&logo=.net)
 
-<br><br>
   
 ### :student: My Github stats :
 <div align="center" >
@@ -78,8 +87,13 @@
 </div>
   
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)   -->
+  
+  
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-
----
-
+<p>
+<a href="https://kavididesilv.webflow.io/"><img alt="Website" src="https://img.shields.io/badge/Website-kavididesilv.webflow.io/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/kavididesilva/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kavidi%20De%20Silva-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:kvdhdesilva@gmail@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kvdhdesilva@gmail@gmail?style=flat-square&logo=gmail"></a>
+</p>
 
