@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me:  
 - 🌱 A passionate Self-taught UX/UI Engineer
 - 👯 I'm interested in UX/UI and software development, front-end development and digital marketing.
-- 💬 I’m currently learning `React JS` and `Node JS`.
+- 💬 I’m currently learning `React JS`.
 - 🏡'Lives in **Sri Lanka**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 - 🖥️ Portfolio [link](https://kavididesilv.webflow.io/).
